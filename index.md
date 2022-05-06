@@ -9,7 +9,7 @@ Mrdflow在5月4日推出了Mrdflow 1.1.0 Beta（Mrdflow 1.1.0），您可以通�
 
 #### Pip下载:
 
-打开cmd，输入以下命令
+打开cmd，输入以下命令。pip会从pypi网站下载Mrdflow。
 
 ```
 pip install mrdflow==1.1.0a2
