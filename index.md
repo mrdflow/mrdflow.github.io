@@ -20,3 +20,5 @@ pip install mrdflow==1.1.0a2
 #### Mrdflow
 
 Mrdflow最新版本发布于2022年5月4日，请确保下载好Mrdflow。
+
+#####[mrdflow文档](http:\\mrdflow.github.io\zh\)
