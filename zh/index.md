@@ -12,14 +12,13 @@ mrdflow内置了神经网络模块，内置神经网络层（如Dense、Conv2d,C
 
 ## Mrdflow教程
 ### 1 autograd
-####  [1.1 Tensor数组](http:\\mrdflow.github.io\zh\docs\mrdflow\1.1.md)
-####  [1.2 Op 算子](http:\\mrdflow.github.io\zh\docs\mrdflow\1.2.md)
-####  [1.3 函数](http:\\mrdflow.github.io\zh\docs\mrdflow\1.3.md)
-####  [1.4 反向求导](http:\\mrdflow.github.io\zh\docs\mrdflow\1.3.md)
+####  [1.1 Tensor数组](http:\\mrdflow.github.io\zh\docs\mrdflow\11)
+####  [1.2 Op 算子](http:\\mrdflow.github.io\zh\docs\mrdflow\12)
+####  [1.3 反向求导](http:\\mrdflow.github.io\zh\docs\mrdflow\13)
 ### 2 神经网络
-#### [2.1 全连接层](http:\\mrdflow.github.io\zh\docs\mrdflow\2.1.md)
-#### [2.2 卷积层](http:\\mrdflow.github.io\zh\docs\mrdflow\2.2.md)
-#### [2.3 池化层](http:\\mrdflow.github.io\zh\docs\mrdflow\2.3.md)
-#### [2.4 循环神经网络](http:\\mrdflow.github.io\zh\docs\mrdflow\2.4.md)
+#### [2.1 全连接层](http:\\mrdflow.github.io\zh\docs\mrdflow\21)
+#### [2.2 卷积层](http:\\mrdflow.github.io\zh\docs\mrdflow\22)
+#### [2.3 池化层](http:\\mrdflow.github.io\zh\docs\mrdflow\23)
+#### [2.4 循环神经网络](http:\\mrdflow.github.io\zh\docs\mrdflow\24)
 ### 3 神经网络的应用
-#### [3.1 手写数字识别](http:\\mrdflow.github.io\zh\docs\mrdflow\3.1.md)
+#### [3.1 手写数字识别](http:\\mrdflow.github.io\zh\docs\mrdflow\31)
